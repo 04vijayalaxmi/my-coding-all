@@ -1,0 +1,29 @@
+.name
+{
+    margin:0;
+    padding:0;
+    border:0;
+    text-decoration:none;
+
+}
+img{
+    height:50px;
+width:100px;
+padding:40px;
+}
+.menu{
+    margin:30px;
+
+}
+.menu ul{
+    display:flex;
+    margin-left:100px;
+}
+.menu ul li{
+    list-style:none;
+    margin-left:50px;
+    font size:20px;
+}
+nav ion-icon{
+    font-size:50px;
+}

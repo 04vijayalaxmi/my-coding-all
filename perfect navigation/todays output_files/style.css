@@ -1,0 +1,267 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar {
+    margin:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.navbar img{
+    width:100px;
+    height:80px;
+}
+.navbar ul{
+    display:inline-flex;
+    list-style-type:none;
+    padding:0px;
+}
+.navbar ul li{
+    margin-left:30px;
+    list-style:none;
+
+}
+h2{
+    margin: 30px;
+    display: flex;
+    font-size:80px;
+}
+p
+{
+    margin:30px;
+    text-align: justify;
+    font-size: 25px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    padding-left: 30px;
+
+}
+
+.type1{
+    width:100px;
+    height:30px;
+    display:block;
+    margin:0px auto;
+}
+.para
+{
+    margin: 30px;
+    font-size: 30px;
+}
+.box-content{
+    width:100%;
+    height:100px;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.box-content img{
+    height: 60px;
+    width: 50px;
+    display:block;
+    position: calc(50);
+    margin:10px auto;
+    font-size-adjust: calc(50px);
+
+}
+.box-container1
+{
+    width: 330px;
+    height : 250px;
+    border: 2px black solid;
+} h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.box-container2
+{
+    width: 330px;
+    height : 250px;
+    border: 2px black solid;
+}
+h4{
+  
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+     
+}
+.box-container3
+{
+    width: 330px;
+    height : 250px;
+    border: 2px black solid;
+}h5{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.fea{
+    font-size:60px;
+    margin-right: auto;
+}
+.gentlespin{
+ display:flex;
+}
+
+.img11{
+     margin-right: 50px;
+     width:80%;
+     height:600px;
+     font-size:30px;
+}
+
+.img22
+{
+    margin-left: 20%;
+    font-size: 40px;        
+    font-style: bold;
+    width:100%
+ }
+
+ .img33
+{
+    margin-left: 20%;
+    font-size: 40px;        
+    font-style: bold;
+    width:100%
+ }
+
+ .experience-skill{
+    display:flex;
+    width: 50%;
+}
+.experience h2
+{
+    font-size: 30px;
+}
+.tea{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.tea ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+}
+.tea ul li{
+    margin-left: 30px;
+    list-style:none;
+}
+.flow{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.flow ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+}
+.flow ul li{
+    margin-left: 30px;
+    list-style:none;
+}
+.free{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.free ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+ }
+ .free ul li{
+    margin-left: 30px;
+    list-style:none;
+}
+.launch{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.launch ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+}
+.launch ul li{
+    margin-left:30px;
+    list-style:none;
+}
+.skill{
+    
+    margin-left: 300px;
+    }
+    .skill h1{
+        font-size: 30px;
+    }
+.circle{
+    display: flex;
+}
+
+.img1 img{
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius:50px;
+}
+.img2 img{
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius: 50px;;
+}
+.img3 img{
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius: 50%;
+}
+.img4 img{
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius: 50px;
+}
+.card-container
+{
+            width:100%;
+            height:100px;
+            display:flex;
+            flex-wrap: wrap;
+ }
+        
+ 
+ .card-container .tech img
+ {
+            height: 300px;
+            width: 300px;
+            display:inline-block;
+            margin:10px;
+            font-size-adjust: calc(50px);
+ }
+
+.design img
+{
+     height: 300px;
+     width: 300px;
+     display:inline-block;
+    position: calc(50);
+     margin:10px auto;
+    font-size-adjust: calc(50px);
+        
+ }
+    
+ .marketing img{
+            height: 300px;
+            width: 300px;
+            display:inline-block;
+            position: calc(50);
+            margin:left;
+            font-size-adjust: calc(50px);
+        
+        }
+        
+
+
+        

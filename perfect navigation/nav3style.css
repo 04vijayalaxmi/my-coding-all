@@ -1,0 +1,249 @@
+*{
+    padding: 0PX;
+    border: 0PX;
+}
+.nav3 {
+    margin:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.nav3 img{
+    width:100px;
+    height:85px;
+}
+.nav3 ul{
+    display:inline-flex;
+    list-style-type:none;
+    padding:0px;
+}
+.nav3 ul li{
+    margin-left:30px;
+    list-style:none;
+
+}
+
+.about{
+    font-size: 100px;
+    padding: 5px;
+}
+
+.picture img{
+    width:1100px;
+    height:600px;
+    display:block;
+    margin:0px auto;
+    margin-top: 20px;
+
+}
+.para{
+    font-size: 35px;
+    margin-top: 80px;
+}
+.main1{
+    display:flex;
+    padding:30px;
+}
+.tt{
+    padding: 30px;
+}
+.tt1{
+    font-size: 25px;
+    align-content: center;
+    padding: 30px;
+}
+.tt2{
+    font-size: 25px;
+    padding: 30px;
+    align-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main2{
+    display:flex;
+    padding:30px;
+}
+.ttt{
+    padding: 30px;
+    margin-top: 20px;
+}
+.ttt1{
+    font-size: 25px;
+    align-content: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+.ttt2{
+    font-size: 25px;
+    padding: 30px;
+    align-content: center;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main3{
+    display:flex;
+    padding:30px;
+}
+.three1{
+    padding: 30px;
+    margin-top: 20px;
+}
+.three2{
+    font-size: 25px;
+    align-content: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+.three3{
+    font-size: 25px;
+    padding: 30px;
+    align-content: center;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main4{
+    display:flex;
+    padding:30px;
+}
+.four1{
+    padding: 30px;
+    margin-top: 20px;
+}
+.four2{
+    font-size: 25px;
+    align-content: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+.four3{
+    font-size: 25px;
+    padding: 30px;
+    align-content: center;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.meet{
+    font-size: 50px;
+    margin-left: 40px;
+}
+.fourimage{
+    display: flex;
+}
+.image1 img{
+    height: 260px;
+    width:260px;
+    padding: 30px;
+
+}
+.image1 img{
+    align-content: center;
+
+    border-left: 40px;
+}
+.image2 img{
+    height: 260px;
+    width:260px;
+    padding: 30px;
+}
+.image3 img{
+    height: 260px;
+    width:260px;
+    padding: 30px;
+}
+.image4 img{
+    height: 260px;
+    width:260px;
+    padding: 30px;
+}
+.names{
+    display: flex;
+}
+.inis{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    margin-left: 80px;
+    margin-top: 2px;
+}
+.laya{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    margin-left: 80px;
+    margin-top: 2px;
+    padding: 80px;
+
+}
+.cast{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    margin-left: 80px;
+    margin-top: 0px;
+    padding: 80px;
+}
+.anth{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    margin-left: 80px;
+    margin-top:0px;
+    padding: 80px;
+}
+.nav-pro-news{
+    display: flex;
+}
+.navigation{
+padding: 40px;
+
+}
+
+.navigation ul{
+    list-style-type:none;
+    padding:25px;
+    font-size: 30px;
+}
+.navigation ul li{
+    margin-left:30px;
+    list-style:none;
+}
+
+
+.product{
+padding:40px;
+}
+
+.product ul{
+    list-style-type:none;
+    padding:25px;
+    font-size: 30px;
+}
+.product ul li{
+    margin-left:30px;
+    list-style:none;
+}
+.news{
+    padding:40px;
+    font-size: 20px;
+}
+.news p{
+    font-size: 30px;
+    padding: 25px;
+}
+.bton{
+    display:flex;
+    padding:35px;
+    border-radius: 6px;
+    margin:40px;
+}
+.bton1{
+    padding:40px;
+}
+.bton2{
+    padding:40px;
+}
+.bton3{
+    padding:40px;
+}
+.pp{
+    font-size: 15px;
+    padding: 5px;
+}

@@ -1,0 +1,19 @@
+*{
+    padding:0px;
+    border:0px;
+}
+.grid-container{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    background-color: aquamarine;
+}
+.grid-item{
+    background-color: brown;
+    border: 1px ;
+    padding:2px;
+    font-size: 20px;
+    text-align: center;
+    height:400px;
+    width:150px;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form Validation</title>
+</head>
+<body>
+    <script>
+        function mydata(){
+        var a=document.getElementById("n1").value;
+        var b=document.getElementById("n2").value;
+        
+        if(a==""||b==""){
+            alert("All fields are mandatory"); 
+           return false;
+        }
+        else if(b.lenght<5||b.length>5)
+        {
+            alert("PassWord should be 5 digits");
+           return false;
+        }
+        
+        else {
+            true;
+        }
+    }
+
+    </script>
+    <form  Onsubmit="return mydata()" action="index2.html">
+        UserName:<input type="text" id="n1"><br><br>
+        PassWord:<input type="password" placeholder= "5-Digit password" id="n2"><br><br>
+        <input type="submit" value="login" onclick="mydata()">
+
+        
+    </form>
+</body>
+</html>

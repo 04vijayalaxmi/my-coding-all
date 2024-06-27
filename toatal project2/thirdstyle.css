@@ -1,0 +1,399 @@
+*{
+    padding: 0PX;
+    border: 0PX;
+}
+.nav4 {
+    margin:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.nav4 img{
+    width:150px;
+    height:150px;
+}
+.nav4 ul{
+    display:inline-flex;
+    list-style-type:none;
+    padding:0px;
+}
+.nav4 ul li{
+    margin-left:30px;
+    list-style:none;
+
+}
+.main44{
+    display:flex;
+    background-color:aquamarine;
+} 
+
+
+.main2 p{
+    font-size: 18px;
+}
+.main2{
+    margin-left:60px;
+}
+.shop img{
+    height:300px;
+    width:400px;
+    margin-left: 400px;
+}
+.store{
+    margin-top: 80px;
+    margin-left: 500px;
+}
+.store p{
+    color: crimson;
+    margin-left: 40px;
+}
+.online{
+    display: flex;
+}
+.shop1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.shop1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.shop2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.shop2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.shop3 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+}
+.shop3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+.offline{
+    display: flex;
+}
+.off1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.off1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.off2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.off2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.off3 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+}
+.off3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+
+.plate{
+    display: flex;
+}
+.ate1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.ate1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.ate2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.ate2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.ate3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.ate3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+.chair{
+    display: flex;
+}
+.air1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.air1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.air2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.air2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.air3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.air3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+.table{
+    display: flex;
+}
+.able1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.able1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.able2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.able2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.able3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.able3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+.stand{
+    display: flex;
+}
+.and1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.and1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.and2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.and2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.and3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.and3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+.dark{
+    display: flex;
+}
+.ark1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.ark1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.ark2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.ark2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.ark3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.ark3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+
+.bottle{
+    display: flex;
+}
+.tle1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.tle1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.tle2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.tle2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.tle3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.tle3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+
+
+
+
+.book{
+    display: flex;
+}
+.cook1 img{
+    height:300px;
+    width:350px;
+    margin-left: 10px;
+}
+.cook1 p, h4{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.cook2 img{
+    height:300px;
+    width:350px;
+    margin-left: 100px;
+
+}
+.cook2 p, h4{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.cook3 img{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+}
+.cook3 p,h4{
+    margin-left: 100px;
+    font-size: 20px;
+
+}
+   
+   .logo img{
+    height:50px;
+    width:40px;
+    margin-left: 580px;
+    margin-top: 100px;
+   }
+   .logo h1{
+    margin-left: 350px;
+    font-size: 40px;
+   }
+   .mail{
+    margin-left: 500px;
+    height: 25px;
+    width: 250px;
+    border: 2px solid black;
+    display: flex;
+   }
+   .sub{
+    margin-left: 600px;
+   }
+   .template{
+    margin-left: 400px;
+    font-size: 16px;
+    margin-top: 80px;
+   }

@@ -1,0 +1,86 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.experience-skill{
+    display:flex;
+    width: 50%;
+}
+.experience h2
+{
+    font-size: 30px;
+}
+.tea{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.tea ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+}
+.tea ul li{
+    margin-left: 30px;
+    list-style:none;
+}
+.flow{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.flow ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+}
+.flow ul li{
+    margin-left: 30px;
+    list-style:none;
+}
+.free{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.free ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+ }
+ .free ul li{
+    margin-left: 30px;
+    list-style:none;
+}
+.launch{
+    margin:30px;
+    display: flex;
+    justify-content:space-between;
+}
+.launch ul{
+    display: inline-flex;
+    list-style-type: none;
+    padding:0px;
+}
+.launch ul li{
+    margin-left:30px;
+    list-style:none;
+}
+.skill{
+    font-size: 30px;
+}
+
+.skill, .cicle{
+    width:100%;
+    height:100vh;
+    display:flex;
+    
+}
+.skill, .circle img{
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+    border:10px;
+    display: flex;
+}
+

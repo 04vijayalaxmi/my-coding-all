@@ -1,0 +1,49 @@
+*{
+    padding:0px;
+    border:0px;
+}
+.car{
+    display:flex;
+    padding: 50px;
+}
+.box-content{
+    display: block;
+}
+.box1 img{
+    height:400px;
+    width:400px;
+    padding:20px;
+}
+.box-container1{
+    font-size: 30px;
+    padding: 40px;
+}
+
+.spin{
+    display:flex;
+    padding: 50px;
+}
+.box2 img{
+    height:400px;
+    width:400px;
+    padding:20px;
+    margin:right;
+}
+.box-container2{
+    font-size: 30px;
+    padding: 40px;
+}
+
+.mobile{
+    display:flex;
+    padding: 50px;
+}
+.box3 img{
+    height:400px;
+    width:400px;
+    padding:20px;
+}
+.box-container3{
+    font-size: 30px;
+    padding: 40px;
+}

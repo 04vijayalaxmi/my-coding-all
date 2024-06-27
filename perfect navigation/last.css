@@ -1,0 +1,117 @@
+*{
+    padding: 0PX;
+    border: 0PX;
+}
+.nav4 {
+    margin:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.nav4 img{
+    width:100px;
+    height:85px;
+}
+.nav4 ul{
+    display:inline-flex;
+    list-style-type:none;
+    padding:0px;
+}
+.nav4 ul li{
+    margin-left:30px;
+    list-style:none;
+
+}
+
+.about{
+    font-size: 100px;
+    margin-left: 50PX;
+}
+.nav6{
+    display: flex;
+}
+.tab{
+    padding-left: 80px;
+}
+.tab p{
+    font-size: 50px;
+}
+.tab img{
+    height: 300px;
+    width: 300px;
+}
+.mail{
+    padding: 150px;
+    align-content: normal;
+}
+.mail P{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.ls{
+    border-radius: 20px;
+    background-color: #3de44b;
+    height: 60px;
+    width: 120px;
+    align-content: center;
+    font-size: 35px;
+}
+.nav-pro-news{
+    display: flex;
+    margin-top: 50px;
+}
+.navigation{
+padding: 40px;
+
+}
+
+.navigation ul{
+    list-style-type:none;
+    padding:25px;
+    font-size: 30px;
+}
+.navigation ul li{
+    margin-left:30px;
+    list-style:none;
+}
+
+
+.product{
+padding:40px;
+}
+
+.product ul{
+    list-style-type:none;
+    padding:25px;
+    font-size: 30px;
+}
+.product ul li{
+    margin-left:30px;
+    list-style:none;
+}
+.news{
+    padding:40px;
+    font-size: 20px;
+}
+.news p{
+    font-size: 30px;
+    padding: 25px;
+}
+.bton{
+    display:flex;
+    padding:35px;
+    border-radius: 6px;
+    margin:40px;
+}
+.bton1{
+    padding:40px;
+}
+.bton2{
+    padding:40px;
+}
+.bton3{
+    padding:40px;
+}
+.pp{
+    font-size: 15px;
+    padding: 5px;
+}

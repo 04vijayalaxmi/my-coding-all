@@ -1,0 +1,226 @@
+*{
+    padding: 0PX;
+    border: 0PX;
+}
+.nav4 {
+    margin:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.nav4 img{
+    width:150px;
+    height:150px;
+}
+.nav4 ul{
+    display:inline-flex;
+    list-style-type:none;
+    padding:0px;
+}
+.nav4 ul li{
+    margin-left:30px;
+    list-style:none;
+
+}
+.main1{
+    display:flex;
+    height:400px;
+    background-color: lightsalmon;
+
+}
+.about{
+    padding: 40px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+.about h2{
+    font-size: 60px;
+}
+.tea img{
+    margin-left: 200px;
+    margin-top: 80px;
+    height:250px;
+    width: 300px;
+    margin-right: 20px;
+}
+.box11{
+    text-align: center;
+margin-left: 60px;
+}
+.box11 p{
+   color: brown;
+   margin-top: 80px;
+}
+.pot{
+   font-size: 50px;
+}
+.circles{
+   display: flex;
+}
+.box111{
+   height:250px;
+   width: 250px;
+   border:2px white;
+   margin:5px;
+   margin-top:200px;
+   margin-left: 150px;
+   border-radius: 50%;
+   background-color: burlywood;
+   
+}
+.text1{
+   position: absolute;
+   top:25px;
+   padding:20px;
+}
+.text1 p{
+   font-size: 25px;
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+.text1 img{
+   height: 30px;
+   width: 20px;
+}
+.box222{
+   height:250px;
+   width: 250px;
+   border:2px white;
+   margin:5px;
+   margin-top: 200px;
+   margin-left:100px;
+   border-radius: 50%;
+   background-color: coral;
+}.box333{
+   height:250px;
+   width: 250px;
+   border:2px white;
+   margin-top:200px;
+   margin-left: 100px;
+   border-radius: 50%;
+   background-color: crimson;
+}
+.hand-premium{
+   display: flex;
+   padding:30px;
+}
+.hand{
+   font-size: 22px;
+   font-style: normal;
+   font-weight: 300;
+   margin-left: 40px;
+}
+.premium{
+   font-size:22px ;
+   font-style: normal;
+   font-weight: 300;
+   margin-left: 150px;
+}
+.crew{
+    margin-left: 550px;
+    margin-top: 80PX;
+
+}
+.crew p{
+    color: crimson;
+    font-size: 18px;
+    margin-left: 60PX;
+}
+.developers{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.per1{
+    height:350px;
+    width: 300px;
+    font-style: italic;
+}
+.per1 img{
+    height:140px;
+    width: 180px;
+    }
+.per2{
+    height: 350px;
+    width:300px;
+    font-style: italic;
+}
+.per2 img{
+    height:140px;
+    width: 140px;
+}
+.per3{
+    height:350px;
+    width:300px;
+    font-style: italic;
+}
+.per3 img{
+    height:150px;
+    width: 140px;
+      
+    }
+
+    .vase405{
+        display: flex;
+        margin-top: 80px;
+    }
+    .twoimages img{
+        height:300px;
+        width:350px;
+        margin-left: 180px;
+    }
+    .data{
+        margin-left: 200px;
+        font-size: 18px;;
+    }
+    button{
+        margin-top: 40px;
+    }
+
+    .last .last-one{
+
+        background-color: beige;
+       }
+       .last h1{
+        
+        font-style:initial;
+        margin-left: 550px;
+        margin-top: 120px;
+       }
+       .last p{
+        font-style: normal;
+        margin-left: 420px;
+        font-size: 20px;
+       }
+       .last-one{
+        display: flex;
+        padding: 80px;
+       }
+       .mail1 img{
+        height:50px;
+        width:60px;
+        margin-left: 250px;
+       }
+       .mail1 p, h5{
+        margin-left: 200px;
+       }
+       .find1 img{
+        height:60px;
+        width:60px;
+        margin-left: 200px;
+       }
+       .find1 p, h5{
+        margin-left: 200px;
+       }
+       .cal img{
+        height:50px;
+        width:40px;
+        margin-left:240px;
+       }
+       .cal p, h5{
+        margin-left: 220px;
+       }
+       .template{
+        margin-left: 400px;
+        font-size: 16px;;
+       }
+    

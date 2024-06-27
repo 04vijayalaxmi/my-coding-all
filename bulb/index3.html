@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function mydata(){
+        var a= document.getElementById("n1").value;
+        var b= document.getElementById("n2").value;
+        
+        if(a==""||b==""){
+            alert("All fields are mandatory");
+           return false;
+        }
+        else {
+            true;
+        }
+    }
+
+    </script>
+    <form  onsubmit="return mydata()"    action="index4.html">
+        Username:<input type="text" id="n1"><br><br>
+        Password:<input type="password" value="5-Digit" id="n2"><br><br>
+        <input type="submit" value="login" onclick="mydata()">
+    </form>
+</body>
+</html>

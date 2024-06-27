@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar {
+    margin:30px;
+    display:flex;
+    justify-content:space-between;
+}
+.navbar img{
+    width:100px;
+    height:85px;
+}
+.navbar ul{
+    display:inline-flex;
+    list-style-type:none;
+    padding:0px;
+}
+.navbar ul li{
+    margin-left:30px;
+    list-style:none;
+
+}
+.pro{
+    padding:50px;
+    font-size: 90px;
+}
+.box-content-main{
+    display: block;
+    width:100%;
+    padding:40px;
+}
+.green{
+    display:flex;
+    padding: 20px;
+}
+.box1 img{
+    height:500px;
+    width:500px;
+    padding:40px;
+}
+.box-container1{
+    font-size: 30px;
+    padding: 60px;
+    align-content: center;
+}
+.blue{
+    display:flex;
+    padding: 20px;
+}
+.box2 img{
+    height:500px;
+    width:500px;
+    padding:40px;
+}
+.box-container2{
+    font-size: 30px;
+    padding: 60px;
+    align-content: center;
+}
+.car{
+    display:flex;
+    padding: 20px;
+}
+.box3 img{
+    height:500px;
+    width:500px;
+    padding:40px;
+}
+.box-container3{
+    font-size: 30px;
+    padding: 60px;
+    align-content: center;
+}
+.spin{
+    display:flex;
+    padding: 20px;
+}
+.box4 img{
+    height:500px;
+    width:600px;
+    padding:40px;
+}
+.box-container4{
+    font-size: 30px;
+    padding: 60px;
+    align-content: center;
+}
+.mobile{
+    display:flex;
+    padding: 20px;
+}
+.box5 img{
+    height:500px;
+    width:600px;
+    padding:40px;
+}
+.box-container5{
+    font-size: 30px;
+    padding: 60px;
+    align-content: center;
+}
+.nav-pro-news{
+    display: flex;
+}
+.navigation{
+padding: 40px;
+
+}
+
+.navigation ul{
+    list-style-type:none;
+    padding:25px;
+    font-size: 30px;
+}
+.navigation ul li{
+    margin-left:30px;
+    list-style:none;
+}
+
+
+.product{
+padding:40px;
+}
+
+.product ul{
+    list-style-type:none;
+    padding:25px;
+    font-size: 30px;
+}
+.product ul li{
+    margin-left:30px;
+    list-style:none;
+}
+.news{
+    padding:40px;
+    font-size: 20px;
+}
+.news p{
+    font-size: 30px;
+    padding: 25px;
+}
+.bton{
+    display:flex;
+    padding:35px;
+    border-radius: 6px;
+    margin:40px;
+}
+.bton1{
+    padding:40px;
+}
+.bton2{
+    padding:40px;
+}
+.bton3{
+    padding:40px;
+}
+.pp{
+    font-size: 15px;
+    padding: 5px;
+}
